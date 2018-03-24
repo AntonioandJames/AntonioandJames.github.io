@@ -1,2 +1,2 @@
 # Bouncing Balls
-Bouncing balls, We also want to add momentum though
+Bouncing balls, this project is completed.
